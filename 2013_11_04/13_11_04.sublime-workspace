@@ -1,0 +1,2090 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sop",
+				"stopIncrementProgressBar"
+			],
+			[
+				"set",
+				"startIncrementProgressBar"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"pro",
+				"progress_bar"
+			],
+			[
+				"bet",
+				"between"
+			],
+			[
+				"UPF",
+				"UPFILES_TABLE_NAME"
+			],
+			[
+				"upfi",
+				"upfid"
+			],
+			[
+				"UP",
+				"UPFILES_TABLE_NAME"
+			],
+			[
+				"U",
+				"UPFILES_TABLE_NAME"
+			],
+			[
+				"border-le",
+				"border-left-color"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"time_",
+				"time_finish"
+			],
+			[
+				"date_",
+				"date_finish"
+			],
+			[
+				"tm",
+				"tm_finish"
+			],
+			[
+				"dt",
+				"dt_start"
+			],
+			[
+				"sch_da",
+				"sch_date_start"
+			],
+			[
+				"dateD",
+				"dateField"
+			],
+			[
+				"US",
+				"USER_TABLE_NAME"
+			],
+			[
+				"had",
+				"hasChildrenUsers"
+			],
+			[
+				"qe",
+				"query"
+			],
+			[
+				"USER",
+				"USER_ADMINISTRATOR_LEVEL"
+			],
+			[
+				"pass",
+				"passwd"
+			],
+			[
+				"TAB",
+				"TABLE_NAME"
+			],
+			[
+				"taB",
+				"table_name"
+			],
+			[
+				"ORG",
+				"ORGID"
+			],
+			[
+				"ver",
+				"verifySuperUser"
+			],
+			[
+				"fetch",
+				"fetch_assoc"
+			],
+			[
+				"org",
+				"orgname"
+			],
+			[
+				"upda",
+				"update"
+			],
+			[
+				"val",
+				"validateData"
+			],
+			[
+				"txt",
+				"txt_pattern"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"repla",
+				"replaceComma"
+			],
+			[
+				"rege",
+				"regex"
+			],
+			[
+				"re",
+				"regex"
+			],
+			[
+				"base_",
+				"base64_encode"
+			],
+			[
+				"login",
+				"login"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"cl",
+				"clients"
+			],
+			[
+				"save",
+				"save_error"
+			],
+			[
+				"__",
+				"__LINE__"
+			],
+			[
+				"Ex",
+				"Exception"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"REGE",
+				"REGEX_PATH"
+			],
+			[
+				"real_sca",
+				"mysql_real_escape_string"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"remove",
+				"remove_btn"
+			],
+			[
+				"update",
+				"update_btn"
+			],
+			[
+				"ob",
+				"objc"
+			],
+			[
+				"sessio",
+				"sessionEquals"
+			],
+			[
+				"is_in",
+				"is_integer"
+			],
+			[
+				"reques",
+				"requestEquals"
+			],
+			[
+				"ses",
+				"sessionEquals"
+			],
+			[
+				"sess",
+				"sessionId"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"st",
+				"stflag"
+			],
+			[
+				"Ac",
+				"ACCESS_ADMIN"
+			],
+			[
+				"contr",
+				"CONTROLLER_COLL"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"grou",
+				"groupResults"
+			],
+			[
+				"ma",
+				"mouseleave	mouseleave"
+			],
+			[
+				"grop",
+				"groupResults"
+			],
+			[
+				"numero",
+				"numeroRevista"
+			],
+			[
+				"numer",
+				"numeroRevista"
+			],
+			[
+				"COn",
+				"CONTROLLER_COLL"
+			],
+			[
+				"rev",
+				"revista"
+			],
+			[
+				"His",
+				"HistoricoController"
+			],
+			[
+				"Hi",
+				"HistoricoController"
+			],
+			[
+				"his",
+				"historicoController"
+			],
+			[
+				"HIS",
+				"historicoController"
+			],
+			[
+				"result",
+				"resultsCallback"
+			],
+			[
+				"respo",
+				"responseCallback"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"classe",
+				"classesNice"
+			],
+			[
+				"tu",
+				"titulo"
+			],
+			[
+				"class",
+				"classeNice"
+			],
+			[
+				"num",
+				"numero"
+			],
+			[
+				"socket",
+				"socket"
+			],
+			[
+				"Especi",
+				"Especificacao"
+			],
+			[
+				"classs",
+				"classesNice"
+			],
+			[
+				"texto",
+				"texto-complementar"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"proc",
+				"processos"
+			],
+			[
+				"env",
+				"enviou"
+			],
+			[
+				"opo",
+				"oposicoes"
+			],
+			[
+				"cal",
+				"callbackEndSaving"
+			],
+			[
+				"Txt",
+				"TXT"
+			],
+			[
+				"opera",
+				"operador"
+			],
+			[
+				"adi",
+				"administrador"
+			],
+			[
+				"fin",
+				"finishedGeneratingTxt"
+			],
+			[
+				"ex",
+				"exportTxt"
+			],
+			[
+				"process",
+				"processLine"
+			],
+			[
+				"revi",
+				"revistaTxt"
+			],
+			[
+				"revs",
+				"revistaTxt"
+			],
+			[
+				"Lo",
+				"LogSchema"
+			],
+			[
+				"mon",
+				"mongodbNative"
+			],
+			[
+				"tempo",
+				"tempo_leitura"
+			],
+			[
+				"iden",
+				"identifyTimeout"
+			],
+			[
+				"ass",
+				"assistente_de"
+			],
+			[
+				"sock",
+				"sockets"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"identi",
+				"identify"
+			],
+			[
+				"foun",
+				"foundOurProcessLog"
+			],
+			[
+				"numeros",
+				"numeroRevista"
+			],
+			[
+				"endP",
+				"endParseRevistaLog"
+			],
+			[
+				"ops",
+				"oposicoesModel"
+			],
+			[
+				"oposi",
+				"oposicoesModel"
+			],
+			[
+				"qt",
+				"decQtdOps"
+			],
+			[
+				"upload",
+				"uploadRpi"
+			],
+			[
+				"di",
+				"disconnectLog"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"setS",
+				"setOposicoesModel"
+			],
+			[
+				"op",
+				"oposicoes"
+			],
+			[
+				"lei",
+				"leituraFinalizada"
+			],
+			[
+				"updr",
+				"uploaderSocket"
+			],
+			[
+				"han",
+				"handshaken"
+			],
+			[
+				"upo",
+				"uploaderSocket"
+			],
+			[
+				"uplo",
+				"uploadedRpi"
+			],
+			[
+				"n_",
+				"n_oposicoes"
+			],
+			[
+				"sal",
+				"salvarOposicoes"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"solr",
+				"solrQueryResul"
+			],
+			[
+				"soc",
+				"socket"
+			],
+			[
+				"as",
+				"asyncRoutes"
+			],
+			[
+				"Num",
+				"Number"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "arvore_genealogica.pl",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Unix",
+				"name": "/* Programa Árvore Genealógica */"
+			}
+		},
+		{
+			"file": "exercicio_1.pl",
+			"settings":
+			{
+				"buffer_size": 572,
+				"line_ending": "Unix",
+				"name": "aluno(joao,logica)."
+			}
+		},
+		{
+			"file": "exercicio_2.pl",
+			"settings":
+			{
+				"buffer_size": 149,
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "exercicio_3.pl",
+			"settings":
+			{
+				"buffer_size": 506,
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "exercicio_4.pl",
+			"settings":
+			{
+				"buffer_size": 276,
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "exercicio_5.pl",
+			"settings":
+			{
+				"buffer_size": 261,
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "exercicio_6.pl",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "exercicio_7.pl",
+			"settings":
+			{
+				"buffer_size": 419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "exercicio_8.pl",
+			"settings":
+			{
+				"buffer_size": 311,
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"selected_items":
+		[
+			[
+				"sspro",
+				"Set Syntax: Prolog"
+			],
+			[
+				"prolog",
+				"Set Syntax: Prolog"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"repar",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"reparse",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pagcke",
+				"Package Control: Install Package"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"traii",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjsva",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"ssjade",
+				"Set Syntax: Jade"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"PACK",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"SSHASL",
+				"Set Syntax: Haskell"
+			],
+			[
+				"grade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ssjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"php set",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"get set",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"setin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setu",
+				"Preferences: Settings - User"
+			],
+			[
+				"ssphg",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssini",
+				"Set Syntax: INI"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet gets",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"Snippet: get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Ips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"pacha",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Apac",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"INst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"fun",
+				"Snippet: Function Signature"
+			],
+			[
+				"inter",
+				"Snippet: Interface"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 473.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/reinaldo/Documentos/bestuse.sublime-project",
+		"/home/reinaldo/trabalhos/bestuse/js/prototype.js",
+		"/home/reinaldo/trabalhos/bestuse/index_procs.php",
+		"/home/reinaldo/trabalhos/bestuse/include/CCusto.php",
+		"/home/reinaldo/trabalhos/bestuse/css/style.css",
+		"/home/reinaldo/trabalhos/bestuse/busystem.view_uploads.php",
+		"/home/reinaldo/trabalhos/bestuse/busystem.upload.php",
+		"/home/reinaldo/trabalhos/bestuse/index_restr.php",
+		"/home/reinaldo/trabalhos/bestuse/busystem.download.php",
+		"/home/reinaldo/trabalhos/bestuse/busystem.report.php",
+		"/home/reinaldo/trabalhos/bestuse/files/include/phpcfg.php",
+		"/home/reinaldo/trabalhos/bestuse/include/Support.php",
+		"/home/reinaldo/trabalhos/bestuse/include/UpFiles.php",
+		"/home/reinaldo/trabalhos/bestuse/include/UpfSch.php",
+		"/home/reinaldo/trabalhos/bestuse/include/TrustedNumbers.php",
+		"/home/reinaldo/trabalhos/bestuse/templates/file_data.php",
+		"/home/reinaldo/trabalhos/bestuse/include/index_defs.php",
+		"/home/reinaldo/trabalhos/bestuse-prod/testm.php",
+		"/home/reinaldo/trabalhos/bestuse/include/User.php",
+		"/home/reinaldo/trabalhos/bestuse/busystem.user.php",
+		"/home/reinaldo/trabalhos/bestuse/busystem.clients.php",
+		"/home/reinaldo/trabalhos/bestuse/include/Clients.php",
+		"/home/reinaldo/trabalhos/bestuse/docs/log/bu_system_log20131029",
+		"/home/reinaldo/trabalhos/bestuse/templates/sysmenu.php",
+		"/home/reinaldo/trabalhos/bestuse/include/DbAdmin.php",
+		"/home/reinaldo/trabalhos/bestuse/busystem.user_list.php",
+		"/home/reinaldo/trabalhos/bestuse/include/Login.php",
+		"/home/reinaldo/trabalhos/bestuse/docs/log_git_28_10_2013.txt",
+		"/home/reinaldo/trabalhos/bestuse/.gitignore",
+		"/home/reinaldo/trabalhos/bestuse/include/lideranca.php",
+		"/home/reinaldo/trabalhos/bestuse/include/phpcfg.php",
+		"/home/reinaldo/trabalhos/bestuse/busystem.costc_list.php",
+		"/home/reinaldo/trabalhos/bestuse/busystem.clients_list.php",
+		"/home/reinaldo/trabalhos/bestuse/js/bestuse.js",
+		"/home/reinaldo/trabalhos/bestuse/include/websix.php",
+		"/home/reinaldo/trabalhos/bestuse/templates/login_user.php",
+		"/home/reinaldo/trabalhos/bestuse/busystem.costc.php",
+		"/home/reinaldo/trabalhos/bestuse/include/clients.php",
+		"/home/reinaldo/trabalhos/bestuse/uploads/lideranca_data_20130924-084533.txt",
+		"/home/reinaldo/trabalhos/bestuse/docs/bestuse_main_backup_data_upfiles_upfsch_11_10_2013.sql",
+		"/home/reinaldo/trabalhos/bestuse/docs/bestuse_main_backup_only_upfiles_upfsch_11_10_2013.sql",
+		"/home/reinaldo/trabalhos/bestuse/docs/bestuse_main_backup_11_10_2013.sql",
+		"/home/reinaldo/trabalhos/bestuse/include/paschoalotto.php",
+		"/home/reinaldo/trabalhos/bestuse/files/include/paschoalotto.php",
+		"/home/reinaldo/trabalhos/agp-async/app/controllers/semelhantes.js",
+		"/home/reinaldo/trabalhos/agp-async/app/controllers/historico.js",
+		"/home/reinaldo/historico.json",
+		"/home/reinaldo/trabalhos/agp-async/public/js/controllers/restapidocs.js",
+		"/home/reinaldo/trabalhos/agp-async/public/views/rest-api-docs/index.html",
+		"/home/reinaldo/trabalhos/agp-async/public/js/config.js",
+		"/home/reinaldo/trabalhos/agp-async/public/js/controllers/header.js",
+		"/home/reinaldo/trabalhos/agp-async/app/views/includes/foot.jade",
+		"/home/reinaldo/trabalhos/agp-async/config/routes-async.js",
+		"/home/reinaldo/trabalhos/agp-async/config/routes.js",
+		"/home/reinaldo/trabalhos/agp-async/docs/node27.log",
+		"/home/reinaldo/resposta2.json",
+		"/home/reinaldo/trabalhos/agp-async/docs/results.json",
+		"/home/reinaldo/resposta.json",
+		"/home/reinaldo/trabalhos/agp-async/node_modules/mongodb/lib/mongodb/mongo_client.js",
+		"/home/reinaldo/trabalhos/agp-async/docs/node26.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/node24.log",
+		"/home/reinaldo/trabalhos/agp-async/app/models/mongodb.js",
+		"/home/reinaldo/trabalhos/agp-async/node_modules/mongodb/lib/mongodb/cursor.js",
+		"/home/reinaldo/trabalhos/agp-async/config/config.js",
+		"/home/reinaldo/trabalhos/agp-async/app/controllers/txt.js",
+		"/home/reinaldo/trabalhos/agp-async/app/controllers/revista.js",
+		"/home/reinaldo/trabalhos/agp-async/app/models/ignoradas.js",
+		"/home/reinaldo/trabalhos/agp-async/docs/node25.log",
+		"/home/reinaldo/trabalhos/agp-async/app/models/oposicoes.js",
+		"/home/reinaldo/trabalhos/agp-async/docs/node23.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/node22.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/node21.log",
+		"/home/reinaldo/trabalhos/agp-async/.gitignore",
+		"/home/reinaldo/trabalhos/agp-async/app/models/revista/classes-nice.js",
+		"/home/reinaldo/trabalhos/agp-async/public/js/upload.js",
+		"/home/reinaldo/trabalhos/agp-async/docs/node20.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/node19.log",
+		"/home/reinaldo/trabalhos/agp-async/public/downloads/2230_semelhantes.txt",
+		"/home/reinaldo/trabalhos/agp-async/docs/node18.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/node17.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/node16.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/node15.log",
+		"/home/reinaldo/trabalhos/agp-async/app/views/upload.jade",
+		"/home/reinaldo/trabalhos/agp-async/public/views/websocket/index.html",
+		"/home/reinaldo/trabalhos/agp-async/docs/node14.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/node13.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/2230_semelhantes.txt",
+		"/home/reinaldo/trabalhos/agp-async/package.json",
+		"/home/reinaldo/trabalhos/agp-async/app/models/log.js",
+		"/home/reinaldo/trabalhos/agp-async/app/models/revista.js",
+		"/home/reinaldo/trabalhos/agp-async/app/models/revista/processo.js",
+		"/home/reinaldo/trabalhos/agp-async/docs/node12.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/node10.log",
+		"/home/reinaldo/trabalhos/agp-async/server.js",
+		"/home/reinaldo/trabalhos/agp-async/app/models/processosInHouse.js",
+		"/home/reinaldo/trabalhos/agp-async/app/controllers/oposicao.js",
+		"/home/reinaldo/trabalhos/agp-async/app/models/solr.js",
+		"/home/reinaldo/trabalhos/agp-async/docs/node9.log",
+		"/home/reinaldo/trabalhos/agp-async/docs/node8.log",
+		"/home/reinaldo/trabalhos/agp-async/public/views/header.html",
+		"/home/reinaldo/trabalhos/agp-async/public/js/controllers/websocket.js",
+		"/home/reinaldo/trabalhos/agp-async/public/js/controllers/index.js",
+		"/home/reinaldo/trabalhos/agp-async/public/js/app.js",
+		"/home/reinaldo/trabalhos/agp-async/app/views/layouts/default.jade",
+		"/home/reinaldo/trabalhos/agp-async/bower.json",
+		"/home/reinaldo/trabalhos/agp-async/public/js/init.js",
+		"/home/reinaldo/trabalhos/agp-async/app/models/historico.js",
+		"/home/reinaldo/trabalhos/agp-async/node8.log",
+		"/home/reinaldo/trabalhos/agp-async/node7.log",
+		"/home/reinaldo/trabalhos/agp-async/node6.log",
+		"/home/reinaldo/trabalhos/agp-async/node4.log",
+		"/home/reinaldo/trabalhos/agp-async/node5.log",
+		"/home/reinaldo/trabalhos/agp-async/node.log",
+		"/home/reinaldo/trabalhos/agp-async/node2.log",
+		"/home/reinaldo/trabalhos/agp-async/node3.log",
+		"/home/reinaldo/trabalhos/agp-async/app/models/classes-conflitantes.js",
+		"/home/reinaldo/Desktop/Sword Art Online Volume 12 - Baka-Tsuki.html",
+		"/home/reinaldo/trabalhos/agp-async/app/models/palavra.js",
+		"/home/reinaldo/trabalhos/agp-async/app/models/utf8.js",
+		"/home/reinaldo/trabalhos/agp-async/app/controllers/index.js",
+		"/home/reinaldo/trabalhos/agp-async/app/models/article.js",
+		"/home/reinaldo/Desktop/Arquivo/Palavra.json",
+		"/home/reinaldo/trabalhos/agp-async/parser_palavras_ignoradas.js",
+		"/home/reinaldo/Desktop/palavras.json",
+		"/home/reinaldo/Desktop/Palavra.xml",
+		"/home/reinaldo/trabalhos/agp-async/app/controllers/rpi.js",
+		"/home/reinaldo/trabalhos/agp-async/public/views/semelhantes/list.html",
+		"/home/reinaldo/trabalhos/agp-async/public/js/controllers/semelhante.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/reinaldo/trabalhos/bestuse",
+			"/home/reinaldo/trabalhos/agp-async/app/models",
+			"/home/reinaldo/trabalhos/agp-async/app/controllers",
+			"/home/reinaldo/trabalhos/agp-async/app/models",
+			"/home/reinaldo/trabalhos/agp-async/uploads/2227.xml",
+			"/home/reinaldo/trabalhos/agp-async/app/",
+			"/home/reinaldo/trabalhos/agp-async/app/controllers/index.js",
+			"/home/reinaldo/trabalhos/efolha/application/forms",
+			"/home/reinaldo/trabalhos/efolha/application",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/efolha/public/js",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/application/",
+			"/home/reinaldo/trabalhos/efolha/application/controllers/",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/application/controllers",
+			"/home/reinaldo/trabalhos/efolha/public/js",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/efolha/application/model",
+			"/home/reinaldo/trabalhos/efolha/application/controllers",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/finsys/public/js",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/application",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/module",
+			"/home/reinaldo/trabalhos/finsys/vendor/doctrine/",
+			"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/index",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/public/scripts",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/library/Zend",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/library/Zend/View",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"*Controller.php",
+			"*.phtml",
+			"*.js",
+			"*.php",
+			"*.phtml",
+			"*.php",
+			"*.js",
+			"",
+			"/mnt/www/mbs/public/stylesheets",
+			"*.phtml,/mnt/www/mbs/application/views/scripts",
+			"*.js,/mnt/www/mbs/application/views/scripts",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\"",
+			"‘",
+			".\n",
+			";",
+			"masculino",
+			" Event",
+			"^Event$",
+			"Event",
+			"event",
+			"json",
+			"UNITY",
+			"stop",
+			"el",
+			"sche",
+			"schedule",
+			"upfiles",
+			"97",
+			"STAGE_FINAL",
+			"STAGE_INITIAL",
+			"CCusto",
+			"\"",
+			"às",
+			"$date",
+			"DEFINE",
+			"; ",
+			"error",
+			"_start",
+			"PERCENTAGE",
+			"DATA_CLIENT",
+			"define(DATA_CLIENT",
+			"[",
+			"define",
+			"}\n",
+			"DEFINE",
+			"<?",
+			"define(",
+			"display_error",
+			"$save_error",
+			"save_error",
+			"login_org",
+			"cliente",
+			".",
+			"Client",
+			"client",
+			"Client",
+			"$save_error",
+			"save_error",
+			"        \n",
+			"}",
+			"TABLE_NAME",
+			"cliente",
+			"client",
+			"logo",
+			"orgname",
+			"cliente",
+			"clientes",
+			"login",
+			"Login",
+			"login",
+			"Clients",
+			"Client",
+			"clients",
+			"regex",
+			"login_org",
+			"orgname",
+			"$client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"clients",
+			"APARECER",
+			"'\\'' .",
+			". $",
+			"base64_decode",
+			"user",
+			" {",
+			" ($",
+			"isDataValid",
+			"this->validateData($post)",
+			"regex",
+			"logo",
+			"regex",
+			"? \n                            $client",
+			"? \n                            ",
+			"$client",
+			"$_GET['up']",
+			"psrse",
+			"replaceComma",
+			"'{",
+			"regex",
+			"$data['regex']",
+			"orgname",
+			"error",
+			" $",
+			"define(",
+			"DEFINE",
+			"regex2",
+			"\"login\"",
+			"login",
+			" </",
+			"pass",
+			"function",
+			"this",
+			"            \n",
+			"!reqm",
+			"span",
+			"email_cell",
+			"descr_cell",
+			"td",
+			"th",
+			");\n",
+			"    \n",
+			".",
+			"$str",
+			"str",
+			"=",
+			"objl",
+			".",
+			"TRUSTEDN",
+			"DATA_TRUSTEDN",
+			"js_and_css_files",
+			"<?=",
+			"=",
+			"$txt_pattern",
+			"paschoalotto.php",
+			"processo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".val.trim()",
+			"formCmsConfig",
+			"            \n",
+			"remover",
+			"')\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "arvore_genealogica.pl",
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* Programa Árvore Genealógica */",
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "exercicio_1.pl",
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"auto_name": "aluno(joao,logica).",
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "exercicio_2.pl",
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "exercicio_3.pl",
+					"settings":
+					{
+						"buffer_size": 506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "exercicio_4.pl",
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "exercicio_5.pl",
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "exercicio_6.pl",
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "exercicio_7.pl",
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Prolog/Prolog.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "exercicio_8.pl",
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/Prolog/Prolog.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"up",
+				"include/UpfSch.php"
+			],
+			[
+				"upload",
+				"busystem.upload.php"
+			],
+			[
+				"upfi",
+				"include/UpFiles.php"
+			],
+			[
+				"cc",
+				"include/CCusto.php"
+			],
+			[
+				"syles",
+				"css/style.css"
+			],
+			[
+				"up_xls",
+				"busystem.up_xls.php"
+			],
+			[
+				"index_",
+				"index_procs.php"
+			],
+			[
+				"sys",
+				"templates/sysmenu.php"
+			],
+			[
+				"tr",
+				"include/TrustedNumbers.php"
+			],
+			[
+				"upfsch",
+				"include/UpfSch.php"
+			],
+			[
+				"index_de",
+				"include/index_defs.php"
+			],
+			[
+				"index_pro",
+				"index_procs.php"
+			],
+			[
+				"upf",
+				"include/UpFiles.php"
+			],
+			[
+				"sup",
+				"include/Support.php"
+			],
+			[
+				"php",
+				"files/include/phpcfg.php"
+			],
+			[
+				"busystem.clien",
+				"busystem.clients.php"
+			],
+			[
+				"bus",
+				"busystem.user.php"
+			],
+			[
+				"user",
+				"include/User.php"
+			],
+			[
+				"clients",
+				"include/Clients.php"
+			],
+			[
+				"client",
+				"busystem.clients.php"
+			],
+			[
+				"sysme",
+				"templates/sysmenu.php"
+			],
+			[
+				"dba",
+				"include/DbAdmin.php"
+			],
+			[
+				"login",
+				"include/Login.php"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"",
+				"include/DbAdmin.php"
+			],
+			[
+				"busc",
+				"busystem.clients.php"
+			],
+			[
+				"busycl",
+				"busystem.clients.php"
+			],
+			[
+				"procs",
+				"index_procs.php"
+			],
+			[
+				"best.js",
+				"js/bestuse.js"
+			],
+			[
+				"suppor",
+				"include/Support.php"
+			],
+			[
+				"phpcfg",
+				"include/phpcfg.php"
+			],
+			[
+				"ccust",
+				"include/CCusto.php"
+			],
+			[
+				"cent_l",
+				"busystem.clients_list.php"
+			],
+			[
+				"clients_ls",
+				"busystem.clients_list.php"
+			],
+			[
+				"busystem.clie",
+				"busystem.clients.php"
+			],
+			[
+				"dbad",
+				"include/DbAdmin.php"
+			],
+			[
+				"list",
+				"busystem.costc_list.php"
+			],
+			[
+				"ccus",
+				"include/CCusto.php"
+			],
+			[
+				"su",
+				"include/Support.php"
+			],
+			[
+				"busystem.c",
+				"busystem.costc_list.php"
+			],
+			[
+				"costcl",
+				"busystem.costc_list.php"
+			],
+			[
+				"cost_",
+				"busystem.costc_list.php"
+			],
+			[
+				"login_us",
+				"templates/login_user.php"
+			],
+			[
+				"docsbes",
+				"docs/bestuse_main_backup_11_10_2013.sql"
+			],
+			[
+				"lide",
+				"include/lideranca.php"
+			],
+			[
+				"paschoalotto",
+				"files/include/paschoalotto.php"
+			],
+			[
+				"suppo",
+				"include/Support.php"
+			],
+			[
+				"log",
+				"docs/logReqProcessosComOpoosicao.json"
+			],
+			[
+				"routes",
+				"config/routes.js"
+			],
+			[
+				"seme",
+				"app/controllers/semelhantes.js"
+			],
+			[
+				"semelha",
+				"app/controllers/semelhantes.js"
+			],
+			[
+				"resu",
+				"docs/results.json"
+			],
+			[
+				"his",
+				"app/controllers/historico.js"
+			],
+			[
+				"mongo_client",
+				"node_modules/mongodb/lib/mongodb/mongo_client.js"
+			],
+			[
+				"node26",
+				"docs/node26.log"
+			],
+			[
+				"24.lo",
+				"docs/node24.log"
+			],
+			[
+				"cursorj",
+				"node_modules/mongodb/lib/mongodb/cursor.js"
+			],
+			[
+				"mongodb",
+				"app/models/mongodb.js"
+			],
+			[
+				"histori",
+				"app/controllers/historico.js"
+			],
+			[
+				"ignora",
+				"app/models/ignoradas.js"
+			],
+			[
+				"node25.",
+				"docs/node25.log"
+			],
+			[
+				"node25",
+				"docs/node25.log"
+			],
+			[
+				"node24",
+				"docs/node24.log"
+			],
+			[
+				"23.lo",
+				"docs/node23.log"
+			],
+			[
+				"22.lo",
+				"docs/node22.log"
+			],
+			[
+				"opos",
+				"app/models/oposicoes.js"
+			],
+			[
+				"21",
+				"docs/node21.log"
+			],
+			[
+				"classses",
+				"app/models/revista/classes-nice.js"
+			],
+			[
+				"node17",
+				"docs/node17.log"
+			],
+			[
+				"node16",
+				"docs/node16.log"
+			],
+			[
+				"node",
+				"docs/node15.log"
+			],
+			[
+				"con",
+				"config/config.js"
+			],
+			[
+				"rou",
+				"config/routes-async.js"
+			],
+			[
+				"revis",
+				"app/controllers/revista.js"
+			],
+			[
+				"revista",
+				"app/models/revista.js"
+			],
+			[
+				"processo",
+				"app/models/revista/processo.js"
+			],
+			[
+				"modelprocesso",
+				"app/models/revista/processo.js"
+			],
+			[
+				"config",
+				"config/config.js"
+			],
+			[
+				"solr",
+				"app/models/solr.js"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"process",
+				"app/models/processosInHouse.js"
+			],
+			[
+				"ig",
+				"app/models/ignoradas.js"
+			],
+			[
+				"oposi",
+				"app/controllers/oposicao.js"
+			],
+			[
+				"igno",
+				"app/models/ignoradas.js"
+			],
+			[
+				"conflitan",
+				"app/models/classes-conflitantes.js"
+			],
+			[
+				"o",
+				"app/controllers/oposicao.js"
+			],
+			[
+				"mysql",
+				"app/models/mysql.js"
+			],
+			[
+				"modelrevist",
+				"app/models/revista.js"
+			],
+			[
+				"modelre",
+				"app/models/revista.js"
+			],
+			[
+				"processos",
+				"app/models/processosInHouse.js"
+			],
+			[
+				"histo",
+				"app/models/historico.js"
+			],
+			[
+				"modelrevi",
+				"app/models/revista.js"
+			],
+			[
+				"solrlibclient",
+				"node_modules/supertest/node_modules/superagent/lib/client.js"
+			],
+			[
+				"rotocolo",
+				"app/models/revista/protocolo.js"
+			],
+			[
+				"proto",
+				"app/models/revista/protocolo.js"
+			],
+			[
+				"pro",
+				"app/models/revista/processo.js"
+			],
+			[
+				"desp",
+				"app/models/revista/despacho.js"
+			],
+			[
+				"proc",
+				"app/models/revista/processo.js"
+			],
+			[
+				"mongous",
+				"node_modules/mongous/mongous.coffee"
+			],
+			[
+				"marca",
+				"app/models/revista/marca.js"
+			],
+			[
+				"inde",
+				"app/controllers/index.js"
+			],
+			[
+				"util.js",
+				"node_modules/socket.io/lib/util.js"
+			],
+			[
+				"routs",
+				"config/routes-async.js"
+			],
+			[
+				"config.ph",
+				"application/views/scripts/cms/config.phtml"
+			],
+			[
+				"modelcru",
+				"application/models/Crud.php"
+			],
+			[
+				"cms",
+				"application/models/CmsLayout.php"
+			],
+			[
+				"cmscon",
+				"application/forms/CmsConfig.php"
+			],
+			[
+				"cru",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"zendauth",
+				"library/Zend/Auth.php"
+			],
+			[
+				"error",
+				"application/controllers/ErrorController.php"
+			],
+			[
+				"errorconr",
+				"application/controllers/ErrorController.php"
+			],
+			[
+				"cmsindex",
+				"application/views/scripts/cms/index.phtml"
+			],
+			[
+				"cmscontro",
+				"application/controllers/CmsController.php"
+			],
+			[
+				"modelcms",
+				"application/models/Cms.php"
+			],
+			[
+				"functions",
+				"public/js/files/functions.js"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"function",
+				"public/js/files/functions.js"
+			],
+			[
+				"sty",
+				"public/css/styles.css"
+			],
+			[
+				"aplicacaopl",
+				"library/Aplicacao/ActionHelper/Plupload.php"
+			],
+			[
+				"cmsjs",
+				"public/js/files/cms.js"
+			],
+			[
+				"layout",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"anexo",
+				"application/controllers/AnexosController.php"
+			],
+			[
+				"chamadoscon",
+				"application/controllers/ChamadosController.php"
+			],
+			[
+				"cmslogo",
+				"application/forms/CmsLogo.php"
+			],
+			[
+				"application",
+				"application/configs/application.ini"
+			],
+			[
+				"layouscriptserror",
+				"application/layouts/scripts/error.phtml"
+			],
+			[
+				"crudcontr",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"formde",
+				"application/forms/Formdecorator.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/reinaldo/Desktop/Arquivo/uepg/Algoritmos e Programação/xadrez/xadrez.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true
+}

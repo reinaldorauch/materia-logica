@@ -1,0 +1,127 @@
+BACKTRACKING
+
+	Na execução de programas em prolog, a evolução da busca por soluções assume a forma
+de árvore, denominada 'árvore de pesquisa', que é percorrida de cima para baixo e da es-
+querda para a direita, segundo o método denominado 'depth-first-search'.
+
+	Para ilustrar a ideia, imagine o programa apstrato abaixo:
+
+	a :- b                         A
+	a :- c			       |
+	a :- d		+--------------+---------------+
+	b :- e		|	       |               |
+	b :- f		B	       C	       D
+	f :- g	   +----+----+
+	f :- h     |         |
+	f :- i     E         F
+	d               +----+----+
+			|    |	  |
+			G    H	  I
+
+DEBUG e TRACE
+
+	Uma forma de verificar o funcionamento do backtraking é a través do  debug. No SWI-
+Prolog são dois os comandos: debug e trace.
+	Primeiramente é necessário digitar 'debug' e, a partir deste momento, o compilador
+fica em modo debug, e é neste modo que pode ser realizado o trace. O trace é um comando no
+seguinte formato:
+		
+		trace(predicado/aridade,+all)
+
+	Onde predicado é o nome do predicado que será testado, aridade é a quantidade de
+argumentos do predicado e +all são todos os passos do programa (call, exit, redo, fail).
+
+	Utilize o seguinte exemplo:
+
+		gosta(joao, peixe).
+		gosta(joao, livro).
+		gosta(joao, maria).
+		gosta(maria, livro).
+		gosta(pedro, livro).
+		gosta(maria, flor).
+		gosta(maria, vinho).
+
+	Outro exemplo:
+
+		estado(parana).
+		estado(santa_catarina).
+		estado(rio_grande_do_sul).
+		estado(sao_paulo).
+
+		limita_com(parana, santa_catarina).
+		limita_com(santa_catarina, rio_grande_do_sul).
+		limita_com(parana, sao_paulo).
+
+		limite(X,Y) :- limita_com(X,Y);
+			       limita_com(Y,X).
+
+	Nesse exemplo, para fazer o trace no predicado limite, deve-se fazer o trace em
+todos os predicados que compõe a regra, que nesse exemplo é limite_com.
+
+COMANDOS write e read
+
+	O comando write exibe o valor do parãmetro no dispositivo de saída padrão, assim
+o comando write('teste'). exibirá a mensagem 'teste' na tela. O mesmo comando pode ser
+utilizado para imprimir o valor de uma variável.
+
+	No entanto, não existe um comando padrão Prolog para escrita de expressões for-
+matadas. Devido a isso o SWI-Prolog utiliza comandos de extensão, um deste é o comando
+writef.
+
+	O comando read lê um valor no dispositivo de entrada padrão e unifica (atribui)
+o valor a uma variável.
+
+	Exemplo1:
+		
+		homem(socrates).
+		homem(luis).
+
+		mortal(X) :- homem(x), writef('%w%w%w%w%w'),
+			['Se todo home é mortal, e ', X, ' é homem então ', X, ' é mortal']).
+
+	Exemplo2:
+
+		homem(socrates).
+		mortal(X) :- homem(X), writef('%w%w%w%w%w', ['Se todo homem é mortal e ', X, ' é homem então ', X, ' é mortal']).
+
+		verifica :- write('Digite o nome: '), read(X), mortal(X).
+
+Exercícios:
+
+1. Implemente a seguinte base.
+	/* fatos */
+	fica_em(sao_paulo, brasil).
+	fica_em(paris, frança).
+	fica_em(tokyo, japão).
+
+	nasceu_em(joão, são_paulo).
+	nasceu_em(jean, paris).
+	nasceu_em(yuri, tokyo).
+
+  a) Crie uma regra que retorne qual a pátria de joão, jean e yuri.
+  b) Consulte:
+    - Qual a patria de joão?
+    - Quem nasceu em paris?
+    - tokyo fica aonde?
+    - Qual a pátria das pessoas que estão na base?
+
+2. Implemente a árvore genealógica abaixo e crie regras feminino, masculino, casado,
+progenitor, filho, pai, mae, avo, irmã, irmão, tio, primo, sogra:
+
+                                             Carla          Sebastião
+						|		|
+						+------+--------+
+						       |
+                                           Maria      João
+					     |         |
+                                             +----+----+-------+
+						  |            |
+						José          Ana
+					          |            |
+					+---------+            +
+					|	  |            |
+				      Julia     Iris	    Cecilia
+						  |
+						  +
+						  |
+						Jorge

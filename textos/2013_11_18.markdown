@@ -1,0 +1,204 @@
+Listas
+===================
+
+A lista é um objeto estuturado, que é composta por uma sequência linear de ítens, que podem ser palavras, números ou termos estruturados. Uma lista ou é vazia (não possui ítens), ou é uma lista não vazia, constituídas de duas partes: cabeça e cauda (ou corpo).
+
+Listas são consideradas sequência ordenada, ou seja, a lista [a, b, c] != [b, c, a]
+
+* Representação
+    [brasil, uruquai, argentina, paraguai]
+
+* Representação em árvore
+
+                        .
+                       / \
+                 brasil   .
+                         / \
+                 uruguai    .
+                           / \
+                 argentina    .
+                             / \
+                    paraguai    . [] lista vazia
+
+
+O corpo de uma lista é sempre outra lista, mesmo que seja uam lista vazia
+
+É possível separar partes de uma lista utilizando a barra vertical ex: [a|b, c]
+
+Exemplos
+----------------
+
+* ?- [X|Y] = [terra, sol, lua].
+
+    X = terra.
+    Y = [sol, lua].
+
+* ?- [X|Y] = [estrela].
+
+    X = estrela.
+    Y = [];
+
+* ?- [X|[Y|Z]] = [a, b, c, d].
+
+    X = a.
+    Y = b.
+    Z = [c, d].
+
+* ?- [X, Y, Z] = [a, b, c, d].
+
+    erro.
+
+* ?- [X, Y, Z, W] = [1, 2, 3, 4].
+
+    X = 1.
+    Y = 2.
+    Z = 3.
+    W = 4.
+
+* ?- [X|Y] = [].
+
+    false.
+
+Exemplos
+----------------
+
+Selecionar o 3º elemento da lista [a, b, c, d, e, f];
+
+* ?- [_,_,X|_] = [a, b, c, d, e, f].
+
+Exercício
+===============
+
+<table>
+    <thead>
+        <tr>
+            <th>Lista</th>
+            <th>Cabeça</th>
+            <th>Cauda</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>[a, b, c, d]</td>
+            <td>a</td>
+            <td>[b, c, d]</td>
+        </tr>
+        <tr>
+            <td>[a]</td>
+            <td>a</td>
+            <td>[]</td>
+        </tr>
+        <tr>
+            <td>[[o, gato], caiu]</td>
+            <td>[o, gato]</td>
+            <td>[gato]</td>
+        </tr>
+        <tr>
+            <td>[o, gato]</td>
+            <td>o</td>
+            <td>[gato]</td>
+        </tr>
+        <tr>
+            <td>[o, [gato, caiu]]</td>
+            <td>o</td>
+            <td>[[gato, caiu]]</td>
+        </tr>
+        <tr>
+            <td>[o, [gato, caiu], la]</td>
+            <td>o</td>
+            <td>[[gato, caiu], la]</td>
+        </tr>
+        <tr>
+            <td>[X+Y, X=Y]</td>
+            <td>X+Y</td>
+            <td>[X=Y]</td>
+        </tr>
+        <tr>
+            <td>[]</td>
+            <td>false.</td>
+            <td>false.</td>
+        </tr>
+    </tbody>
+</table>
+
+Exercício - Unificação
+======================
+
+<table>
+    <thead>
+        <tr>
+            <th>Lista 1</th>
+            <th>Lista 2</th>
+            <th>Unifica</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>[X, Y, Z]</td>
+            <td>[joão, come, peixe]</td>
+            <td>
+
+* X = joão.
+* Y = come.
+* Z = peixe.
+
+            </td>
+        </tr>
+        <tr>
+            <td>[gato]</td>
+            <td>[X|Y]</td>
+            <td>
+
+* X = gato.
+* Y = [].
+
+            </td>
+        </tr>
+        <tr>
+            <td>[X, Y|Z]</td>
+            <td>[maria, bebe, vinho]</td>
+            <td>
+
+* X = maria.
+* Y = bebe.
+* Z = [vinho].
+
+            </td>
+        </tr>
+        <tr>
+            <td>[[o, Y], |Z]</td>
+            <td>[[X, lapis], [esta, aqui]]</td>
+            <td>
+
+* Y = lapis.
+* Z = [[esta, aqui]].
+* X = o.
+
+            </td>
+        </tr>
+        <tr>
+            <td>[lapis | T]</td>
+            <td>[lapis, caneta]</td>
+            <td>
+
+* T = [caneta].
+
+            </td>
+        </tr>
+        <tr>
+            <td>[boi, cavalo]</td>
+            <td>[cavalo, X]</td>
+            <td>false.</td>
+        </tr>
+        <tr>
+            <td>[branco, Q]</td>
+            <td>[P|cavalo]</td>
+            <td>
+
+* P = branco.
+* Q = cavalo.
+
+            </td>
+        </tr>
+    </tbody>
+</table>
