@@ -202,3 +202,99 @@ Exercício - Unificação
         </tr>
     </tbody>
 </table>
+
+Tratamento Recursivo de Lista
+=============================
+
+1. Exibição de lista
+
+    exibe([]) :- nl.         %nl = nova linha
+    exibe([X|Y]) :- write(X), exibe(Y).
+
+    O primeiro imprime a cabeça da lista (1º termo) e faz a chamada recursiva para o corpo da lista. Acada chamada terá um item a menos. Portanto, chegará um momento que a lista ficará vazia e o o processo vai terminar.
+
+    ?- exibe([a, b, c, d]).
+
+2. Checagem de pertinência - verifica se X é membro da lista
+    Duas condições devem ser verificadas
+
+    1. X é membro da lista, se X é a cabeça da lista:
+        membro(X, [X|_]).
+
+    2. X é membro da lista se X pertence a cauda da lista
+        membro(X, [_|Y]) :- membro(X,Y).
+
+        ?- membro(b, [a, b, c]).
+
+        ?- membro([b,c], [a, [b, c], d]).
+
+        ?- membro(b, [a, [b, c]]).
+
+        ?- membro(X, [a, b, c]).
+
+3. Construção de lista
+    constroi(X, Y, [X|Y]).
+
+    ?- constroi(a, b, X).
+                |  |  |
+                |  |  +-- Resultado
+                |  +-- corpo
+                +-- cabeça
+
+    E para construir uma lista com mais de dois elementos ?
+        ?- constroi(a, [b, c, d, e], X).
+
+    ?- constroi(a, X, [a, b, c]). --------> Serve também paa fazer o inverso também: X é encontrado tal que
+                                            [a | X] = [a, b, c, d, e]
+
+    ?- constroi(a, X, [d, b, c]).
+
+    ?- constroi([a, b, c], [d, e], X).
+
+
+Concatenação de Lista
+=====================
+
+* concatena(L1, L2, L3).
+
+    L1 e L2 são duas listas e L3 é a lista resultante da concatenação. Exemplo: concatena([a, b], [c, d], [a, b, c, d]).
+
+    -> Dois casos devem ser considerados
+
+        1. Se o 1º argumento é uma lista vazia, então o segundo e o terceiro argumento devem ser a mesma lista.
+
+        ?- concatena([], L, L).
+
+        2. Se o 1º argumento é uma lista não vazia, então é ela possui uma cabeça e um corpo que pode ser denotada por [X|L1].
+
+        A concatenação de [X|L1] com a segunda lista L2 produzirá uma terceira lista com a mesma cabeça X da primeira lista L1 e um corpo que é a concatenação do corpo de L1 e de toda a lista L2.
+
+        ?- concatena([X|L1], L2, [X|L3]) :- concatena(L1, L2, L3).
+
+        ?- concatena([a,b],[1,2],X).
+            X = [a,b,1,2].
+
+        ?- concatena([a, [b, c], d], [a, [], b], X).
+            X = [a, [b, c], d, a, [], b].
+
+        ?- concatena([a, b], [c|r], X).
+            X = [a, b, c|r].
+
+        ?- concatena([a,b], L2, [a, b, c, d]).
+            L2 = [c,d].
+
+O programa de concatenação é usado no sentido inverso também, de modo que decompõe a lista em duas partes
+
+?- concatena(L1, L2, [a, b, c]).
+
+L1 = [].
+L2 = [a, b, c].
+
+L1 = [a].
+L2 = [b, c].
+
+L1 = [a, b].
+L2 = [c].
+
+L1 = [a, b, c].
+L2 = [].
